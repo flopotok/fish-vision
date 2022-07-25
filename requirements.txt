@@ -1,0 +1,6 @@
+imutils
+numpy
+opencv-contrib-python==3.4.11.45
+scipy
+torch
+torchvision
